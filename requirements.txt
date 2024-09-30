@@ -1,0 +1,9 @@
+pandas>=2.2.2 
+numpy>=1.23.5 
+nltk>=3.8.1 
+contractions>=0.1.73 
+scikit-learn>=1.4.2 
+keras>=2.12.0 
+pytorch>=2.4.1 
+tqdm>=4.66.4 
+transformers>=4.45.1 
